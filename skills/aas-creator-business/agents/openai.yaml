@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal · 创作者业务与产品"
+  short_description: "Build a 创作者业务与产品 using expert methodology"
+  default_prompt: "Use $aas-creator-business to build a practical 创作者业务与产品 for my situation."

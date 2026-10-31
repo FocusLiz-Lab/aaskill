@@ -1,0 +1,246 @@
+{
+  "prefix": "aas",
+  "repository": "aaskill",
+  "creator": "aliabdaal",
+  "source_files": 1361,
+  "unique_sources": 1184,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 300,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文01 创业与在线商业/250613 他如何在12个月内打造百万美元业务——每一步详解（案例研究）.md",
+          "title": "250613 他如何在12个月内打造百万美元业务——每一步详解（案例研究）",
+          "url": "https://www.youtube.com/watch?v=f7IECetqDLY",
+          "date": "2025-06-13",
+          "sha256": "34c1707bb3aa0f935e1cab51fc65c13d6ccd09b30c3c8b36202d4ebb90885874",
+          "chars": 54969,
+          "excerpt": "”这里需要提到的是，如果你打算采用这种方法——我称之为“纵身一跃法”（the plunge method），即毫无计划地直接辞职跳入深水区以试图让业务起步——你必须能够接受消耗自己的储蓄。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/241008 How to Study for Exams with Flashcards (Anki Masterclass).md",
+          "title": "241008 How to Study for Exams with Flashcards (Anki Masterclass)",
+          "url": "https://www.youtube.com/watch?v=8zaKVFC9Eu4",
+          "date": "2024-10-08",
+          "sha256": "55a51044c4c9cb7783851702442e5a5d7c2d904d56f5e5272995993153690eac",
+          "chars": 215969,
+          "excerpt": "1 or whatever version of Anki you're using at the time of this recording and I'm going to contrl f or command F image occlusion ah here we go this is what I want I want image occlusion enhanced for Anki 2."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/181208 Ask Doctor Ali - 10万订阅者问答.md",
+          "title": "181208 Ask Doctor Ali - 10万订阅者问答",
+          "url": "https://www.youtube.com/watch?v=x40pERU0YaY",
+          "date": "2018-12-08",
+          "sha256": "0c94572e72619bf04d1f7628fc1c8a0bde4d187a5ea7ebe2ec809c09a2b8ee9e",
+          "chars": 14747,
+          "excerpt": "当然，我们有论文和特别考试（Special Burleigh），但如果你能使用高效的学习技巧——而不是仅仅死磕教科书、高亮标记和总结笔记（这些其实是糟糕的学习方法）——而是采用间隔重复（spaced repetition）和主动回忆（active recall）等方法（我在视频中介绍过这些，还有一本叫《Make It Stick》的书非常适合关心此类话题的人阅读），那么你的学习效率会变得极高。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 277,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文06 健康与个人成长/251219 Make 2026 the Best Year of Your Life (Evidence-Based).md",
+          "title": "251219 Make 2026 the Best Year of Your Life (Evidence-Based)",
+          "url": "https://www.youtube.com/watch?v=D_KSR3S6W8I",
+          "date": "2025-12-19",
+          "sha256": "63ab37725868541118199bbca69ab1d5f61304eaaa50e1dc1db6784ce73d4360",
+          "chars": 27957,
+          "excerpt": "However, if your goal is to win the gold medal in the 100 meters Olympics, that is a very different system you would follow compared to if your goal is to win gold medal in swimming at the Olympics  or even if your goal is to get a girlfriend or even if your goal is to start a business."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文07 财富与投资/240423 My honest advice to someone who wants financial freedom.md",
+          "title": "240423 My honest advice to someone who wants financial freedom",
+          "url": "https://www.youtube.com/watch?v=BBAuhqvT_ds",
+          "date": "2024-04-23",
+          "sha256": "c53e91e708d68495364445124402b3ebf939b32cd1f47422a74f7554c20501ec",
+          "chars": 49298,
+          "excerpt": "g with people about their financial goals but like we'll put that off to the side so let's say we do have that goal of £200,000 a year that's the goal okay cool then we think what is the plan what is the plan that you are currently following and what is the plan that you need to follow to get to that goal Everyone is always following a plan whether they are conscious of it or not in John's case his goal was 200,000 a year but the plan he was following was being a teacher teaching in a secondary"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/260219 成功很难，直到你建立这样的系统.md",
+          "title": "260219 成功很难，直到你建立这样的系统",
+          "url": "https://www.youtube.com/watch?v=MBPHU7aaklM",
+          "date": "2026-02-19",
+          "sha256": "882f7e5882a2cbfa76f85295e42b580aa4c155a4dc0ba5c8a15cb21a191e2498",
+          "chars": 10375,
+          "excerpt": "然而，如果我们偶尔抽出几个小时，退后一步并遵循系统化的目标设定流程，我们就更有可能朝着那些源于内在动机的目标努力——即我们真正渴望实现的目标，而不是漫无目的地追逐那些仅仅是社会、父母或过去的自己潜意识里强加给我们的目标。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "productivity": {
+      "matching_sources": 243,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文01 创业与在线商业/241122 How I Built a New $1m Business in 12 Months.md",
+          "title": "241122 How I Built a New $1m Business in 12 Months",
+          "url": "https://www.youtube.com/watch?v=ae9qy-7lBmo",
+          "date": "2024-11-22",
+          "sha256": "db3e335b2413a4979ccf896d681b2ea602e57646493c4bd0e75690bfb7770c83",
+          "chars": 106275,
+          "excerpt": "And then I started sort of leaning into this word productivity, you know, my apps of productivity, tech for productivity, my insanely productive Valentine's Day, my insanely productive birthday, my insanely productive day in the life."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/200628 My Simple Productivity System - The Equation.md",
+          "title": "200628 My Simple Productivity System - The Equation",
+          "url": "https://www.youtube.com/watch?v=UAUDcoqK5I4",
+          "date": "2020-06-28",
+          "sha256": "b0a3032dcf89bf0ead758105941bca995cbe586805d32a5edddedb8cf2871f44",
+          "chars": 9267,
+          "excerpt": "worker because it's usually personal productivity that we're talking about instead we think of productivity as being how much work we can get done in the smallest amount of time possible and so those are the basic components of a productivity equation in a way productivity equals output divided by time so if in more output we can generate the more productive we are the less time that we can generate it in the more productive we are so those are two components of the productivity equation but there are two more and they're arguably the more important ones firstly"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/220802 5 Mistakes Procrastinators Make (And How To Avoid Them...).md",
+          "title": "220802 5 Mistakes Procrastinators Make (And How To Avoid Them...)",
+          "url": "https://www.youtube.com/watch?v=t0VqCDP0rnQ",
+          "date": "2022-08-02",
+          "sha256": "c69aaff9178127c153e47a0f68f2fd6c6ac8d1aa37784668a8ae66c9a5f1a1f4",
+          "chars": 10236,
+          "excerpt": "hey friends welcome back to the channel today we are talking about five mistakes that procrastinators make these are mistakes that i've been making a lot when it comes to various things i'm procrastinating on and i thought i'd share them with you the first one is not appreciating the difference between real procrastination and fake procrastination so what is fake procrastination fake procrastination is where we think and we tell ourselves that we're procrastinating from something but actually w"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "learning": {
+      "matching_sources": 287,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/241008 How to Study for Exams with Flashcards (Anki Masterclass).md",
+          "title": "241008 How to Study for Exams with Flashcards (Anki Masterclass)",
+          "url": "https://www.youtube.com/watch?v=8zaKVFC9Eu4",
+          "date": "2024-10-08",
+          "sha256": "55a51044c4c9cb7783851702442e5a5d7c2d904d56f5e5272995993153690eac",
+          "chars": 215969,
+          "excerpt": "1 or whatever version of Anki you're using at the time of this recording and I'm going to contrl f or command F image occlusion ah here we go this is what I want I want image occlusion enhanced for Anki 2."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/231003 How to Study for Exams - An Evidence-Based Masterclass.md",
+          "title": "231003 How to Study for Exams - An Evidence-Based Masterclass",
+          "url": "https://www.youtube.com/watch?v=Lt54CX9DmS4",
+          "date": "2023-10-03",
+          "sha256": "e09d2cf79633462f19d485b20891308e0d1ef4fe9253a79c2dbf1539f5f9ea51",
+          "chars": 134650,
+          "excerpt": "equally you know 76 we know that seven has a k sound based on this thing and the way I remember is that seven sort of looks like a k sort of and if we look at the number 76 we know that six is the soft J or J or sure sound based on what we've memorized with our Peg system so we know that cage will be Kirch which is 76 and so if we imagine an image of a cage we know that that must correspond to the number 76."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 学习方法与生产力/190616 How to Study for Exams - The STic Framework for Effective Learning.md",
+          "title": "190616 How to Study for Exams - The STic Framework for Effective Learning",
+          "url": "https://www.youtube.com/watch?v=k5A26Sc63F0",
+          "date": "2019-06-16",
+          "sha256": "09ef3aa4ce8e7490f72553def038303099a2473ab55ff3b844d423920096ca73",
+          "chars": 16682,
+          "excerpt": "David Epstein again there was one study one famous study where two groups\n\nof people were learning Spanish vocabulary one group got like eight hours intensive on one day the other group got four hours one day and then the other four hours a month later they had the exact same studying one was just separated by a month eight years later they brought them back and the group that had the spaced practice intervals remembered two hundred and fifty percent more with no studying in the interim and so y"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "creator": {
+      "matching_sources": 344,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/250110 My Honest Advice to Anyone Starting YouTube in 2026.md",
+          "title": "250110 My Honest Advice to Anyone Starting YouTube in 2026",
+          "url": "https://www.youtube.com/watch?v=H-ykVthyNTc",
+          "date": "2025-01-10",
+          "sha256": "e7bb8853b8b3ac84ad0b017356f899e41598146eb2b05a520584e9088db20bfe",
+          "chars": 40058,
+          "excerpt": "Creator first approach where the goal is to be a Creator first and monetize and create a business second in quarter number two the goal is to be a business first and then start weaving in the Creator stuff by using YouTube to generate organic content for your for your business or whatever but here we are starting out as a YouTuber or a Creator first most YouTubers who I know who are now successful in the platform and building have built thriving businesses around it have started off as creators"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/251118 How to Start and Grow a YouTube Channel in 2026.md",
+          "title": "251118 How to Start and Grow a YouTube Channel in 2026",
+          "url": "https://www.youtube.com/watch?v=UVardfy2qMk",
+          "date": "2025-11-18",
+          "sha256": "eaabfd729340f69ecaa904e79a20124109f0d93feb338299594be0d75f3ad017",
+          "chars": 36480,
+          "excerpt": "This is also why faceless channels have a harder time of growing than channels that show their faces or face full channels because it's very difficult to channel personality and vibes through a faceless channel."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/260629 YouTube致富的阴暗面.md",
+          "title": "260629 YouTube致富的阴暗面",
+          "url": "https://www.youtube.com/watch?v=Ig2zcKJQWig",
+          "date": "2026-06-29",
+          "sha256": "b8bd5a82dbf82b8aa3599da487ba806d0a2fd3df05fb80808814e98eb23175e0",
+          "chars": 43919,
+          "excerpt": "我想到了该领域其他拥有大型团队的创作者，他们似乎都采用了这种模式：创作者几乎只是镜头前的“人才”，像个明星一样，出现并要求提供黄色 M&M 巧克力豆之类的东西，而团队则尽力处理尽可能多的事务，以便创作者无需为此操心。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "content-system": {
+      "matching_sources": 413,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/260312 If I Started YouTube from Scratch in 2026, I’d do THIS.md",
+          "title": "260312 If I Started YouTube from Scratch in 2026, I’d do THIS",
+          "url": "https://www.youtube.com/watch?v=rdT3XBZlnHA",
+          "date": "2026-03-12",
+          "sha256": "296c6ef6f7c9d833ecb44e2fd88f8c219f05c878e204c2a4a6d40c63165b417f",
+          "chars": 43225,
+          "excerpt": "You can basically, if you've made less than seven videos on your channel, you can ignore literally everything I've said up into this up until this point and just make those seven bloody videos because I guarantee the process of making those seven videos will teach you way more about yourself and about life and about business and about YouTube than watching a ton of videos about optimizing the perfect strategy while having never actually made a YouTube video."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/260521 If You Want to Make Money From YouTube, Do This..md",
+          "title": "260521 If You Want to Make Money From YouTube, Do This.",
+          "url": "https://www.youtube.com/watch?v=LLjpnubsOWc",
+          "date": "2026-05-21",
+          "sha256": "653e2869a96c16ec6474aa29ff1da473ab511cc9eebef4ff6a35fae29801b538",
+          "chars": 109791,
+          "excerpt": "If you have some sort of system that you're following to like script your hooks or script your videos and do the talking points of the video, some sort of post-production system, just some kind of system takes quite a lot of heavy lifting off your plate and it means that like your thing gets better over time uh even though you're still putting out the same amount of output."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 内容创作与个人品牌/251118 How to Start and Grow a YouTube Channel in 2026.md",
+          "title": "251118 How to Start and Grow a YouTube Channel in 2026",
+          "url": "https://www.youtube.com/watch?v=UVardfy2qMk",
+          "date": "2025-11-18",
+          "sha256": "eaabfd729340f69ecaa904e79a20124109f0d93feb338299594be0d75f3ad017",
+          "chars": 36480,
+          "excerpt": "Now, if you imagine a YouTube channel where the first video is a video about cooking and the next video is a video about knitting and the third video is a video about like a mechanical keyboard and the fourth video is a video about like the importance of hydration and the fifth video is a video about like what they learned growing a YouTube channel and the sixth video is a review of Ali Abdal's New York Times bestseller feelgood productivity."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "creator-business": {
+      "matching_sources": 249,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文01 创业与在线商业/250919 How I Would Build A Business in 2026 (If I had to start over).md",
+          "title": "250919 How I Would Build A Business in 2026 (If I had to start over)",
+          "url": "https://www.youtube.com/watch?v=Jc7gURfsNqk",
+          "date": "2025-09-19",
+          "sha256": "5ec4e244be735253e4cf91ae0811ca0ed08df78da9a8983795cf17be2243190d",
+          "chars": 83313,
+          "excerpt": "Um so, it was very much family businesses, and you either work in your own family business, or you work in a friend of the family business, uncle's business."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文07 财富与投资/250808 Financial Freedom is Easy, After You Learn This.md",
+          "title": "250808 Financial Freedom is Easy, After You Learn This",
+          "url": "https://www.youtube.com/watch?v=zYKJdzyAviE",
+          "date": "2025-08-08",
+          "sha256": "43bc2089d450ab8557fe561deb0019314cf4a4f960f007e9b289c2d9db89c089",
+          "chars": 72081,
+          "excerpt": "There are a lot of businesses that have just a single employee, the person who founded the business, but they're just using the structure of a business because it's more tax efficient and it means you can have multiple clients rather than a boss."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文01 创业与在线商业/250924 The Ultimate Guide to Building a Lifestyle Business.md",
+          "title": "250924 The Ultimate Guide to Building a Lifestyle Business",
+          "url": "https://www.youtube.com/watch?v=FSj7LX5GYgA",
+          "date": "2025-09-24",
+          "sha256": "febc1a154437158c37b45188522975c6b28412581f1d945b1df00b269161d9e4",
+          "chars": 77291,
+          "excerpt": "And for me, um, there's no doubt in my mind now, if I was starting a business today, I would start the kind of business that really allows me to have the lifestyle that I want first and foremost rather than me being a slave to that business, right?"
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal工具箱"
+  short_description: "Ali Abdaal expert workflow router"
+  default_prompt: "Use $aas to route and solve my 学习效率、持续创作与创作者业务 problem."

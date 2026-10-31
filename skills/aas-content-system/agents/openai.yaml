@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal · 内容生产流程"
+  short_description: "Build a 内容生产流程 using expert methodology"
+  default_prompt: "Use $aas-content-system to build a practical 内容生产流程 for my situation."

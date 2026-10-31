@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal · 个人效率与任务系统"
+  short_description: "Build a 个人效率与任务系统 using expert methodology"
+  default_prompt: "Use $aas-productivity to build a practical 个人效率与任务系统 for my situation."

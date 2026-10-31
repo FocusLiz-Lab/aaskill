@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal · 创作者起步与定位"
+  short_description: "Build a 创作者起步与定位 using expert methodology"
+  default_prompt: "Use $aas-creator to build a practical 创作者起步与定位 for my situation."

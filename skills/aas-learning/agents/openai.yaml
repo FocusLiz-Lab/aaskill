@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal · 具体知识的学习与练习"
+  short_description: "Build a 具体知识的学习与练习 using expert methodology"
+  default_prompt: "Use $aas-learning to build a practical 具体知识的学习与练习 for my situation."

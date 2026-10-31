@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ali Abdaal IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $aas-ima to retrieve IMA evidence and continue with the right Ali Abdaal workflow."
